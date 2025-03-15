@@ -28,7 +28,7 @@ git init
 git add .
 git commit -m "Primeiro commit"
 git branch -M main
-git remote add origin https://github.com/seu-usuario/seu-repositorio.git
+git remote add origin https://github.com/RogerzribeiroAlura8/AmigoSecreto/tree/main
 git push -u origin main
 🌐 Publicação
 Depois que o projeto foi concluído e funcionando corretamente, foi publicado no GitHub. Tive algumas dificuldades para compartilhar o projeto. No entanto, após revisar a aula, consegui entender.
